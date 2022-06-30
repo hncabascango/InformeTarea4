@@ -5,24 +5,95 @@
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
 
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+![image](https://user-images.githubusercontent.com/105606339/176575278-d4b3eda4-9734-4369-8d0f-74fe9d4207f0.png)
+
+
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
 
+![image](https://user-images.githubusercontent.com/105606339/176575860-827d2d70-37cc-42ce-ade6-293ec5765e3e.png)
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
+![image](https://user-images.githubusercontent.com/105606339/176563602-a4b1527a-017f-4362-ad11-424777267197.png)
+
+R3 está en paralelo con R4
+
+R1 esta en serie con R3||R4, esta combinación en serie-paralelo esta en paralelo con R1
+
+________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105606339/176563635-119e9484-064c-499e-8709-7426d7b93481.png)
+
+R2 esta en paralelo con R3
+
+R1 esta en paralelo con R4
+
+R2||R3 esta en paralelo con R1||R4
+________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105606339/176563662-ff5ca9ca-9616-4f65-bc96-3f2ffc713569.png)
+
+R1 esta en serie con R2
+
+R3 esta en paralelo con R4
+
+R1+R2 esta en serie con R3||R4
+
+R6 esta en paralelo con R7
+
+R8 esta en serie con R6||R7, esta combinación serie-paralelo esta en serie con R5
+
+________________________________________________________________________________
 
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor.
 
+![image](https://user-images.githubusercontent.com/105606339/176587999-cf39d4eb-5334-4819-905c-c01d5c1a3d7a.png)
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667Ω. Uno de los resistores es de 1.0 kΩ. ¿Cuál es el otro resistor?
 
+![image](https://user-images.githubusercontent.com/105606339/176591254-8208cbd1-f068-4296-b2dc-04a016893b5e.png)
+
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 
+![image](https://user-images.githubusercontent.com/105606339/176591382-ee8e2cf3-8182-4452-899e-993e91986a2c.png)
+
+![image](https://user-images.githubusercontent.com/105606339/176593348-f186177d-3ae7-4940-8e56-254e28c2d453.png)
+
+___________________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105606339/176591402-af112822-0918-4fb2-ac59-5bf07cad39fe.png)
+
+![image](https://user-images.githubusercontent.com/105606339/176593241-d15e2f94-1478-4730-a42c-4b285352fd79.png)
+
+___________________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105606339/176591426-b6facf6f-875c-4097-bacc-27987b1788b5.png)
+
+![image](https://user-images.githubusercontent.com/105606339/176594275-811f4c0b-1c21-45ce-8c99-2b34693d67d3.png)
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada caída de voltaje.
 
+![image](https://user-images.githubusercontent.com/105606339/176595185-bc267eaa-a084-48f3-9e47-32f510bcc71c.png)
+
+![image](https://user-images.githubusercontent.com/105606339/176599068-588471ea-830d-4c16-992b-24a23b0ad657.png)
+
+___________________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105606339/176595237-30e9074e-816c-4660-b7ed-76a7810e4106.png)
+
+![image](https://user-images.githubusercontent.com/105606339/176599809-8b6a5d34-6686-4ce2-80ac-065026de7e9a.png)
+
+___________________________________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/105606339/176595305-c6921db4-86e0-4271-848c-46e9adadf5d5.png)
+
+![image](https://user-images.githubusercontent.com/105606339/176601032-f3326b52-a01d-48a6-a3a7-5b4e7f73e0c1.png)
 
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
+
+![image](https://user-images.githubusercontent.com/105606339/176601819-872b1eed-84f2-4b00-a4c7-78174dd1801b.png)
+
 
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
