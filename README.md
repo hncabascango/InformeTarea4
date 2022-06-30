@@ -2,6 +2,18 @@
 
 ## OBJETIVOS
 
+## MARCO TEÓRICO
+
+### CAPÍTULO 7- CIRCUITOS EN SERIE-PARALELO
+
+![Diagrama en blanco (17)](https://user-images.githubusercontent.com/105606339/176736175-55a17cc0-2c31-47ee-91f4-44e7abf9511a.png)
+
+### CAPÍTULO 8 - TEOREMA DE CIRCUITOS Y CONVERSIONES
+
+![Diagrama en blanco (16)](https://user-images.githubusercontent.com/105606339/176736212-5abf421e-eb92-438f-9e04-703299444ce8.png)
+
+## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
+
 2. Visualice y trace los siguientes circuitos en serie-paralelo:
 
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
@@ -204,7 +216,9 @@ ________________________________________________________________________________
 
 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
+### CONCLUSIONES
 
+### BIBLIOGRAFÍA
 
 
 
