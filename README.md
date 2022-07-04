@@ -2,6 +2,18 @@
 
 ## OBJETIVOS
 
+### Objetivo General
+
+Efectuar los teoremas de circuitos y las conversiones para hallar los valores de voltaje, corriente y resistencia previamente identificado las relaciones serie-paralelo existentes en un circuito.
+
+### Objetivos Especificos
+
+- Hallas los valores de las resistencias de un circuito en serie-paralelo.
+
+- Determinar las corrientes de un circuito con múltiples fuentes aplicando el teorema de superposición.
+
+-
+
 ## MARCO TEÓRICO
 
 ### CAPÍTULO 7- CIRCUITOS EN SERIE-PARALELO
@@ -180,6 +192,7 @@ ________________________________________________________________________________
 
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
 
 8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
 
